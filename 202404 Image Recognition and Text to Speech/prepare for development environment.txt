@@ -1,0 +1,9 @@
+1. 安裝 python 3.7.9 (內建 IDLE)
+
+網址 https://www.python.org/downloads/release/python-379
+
+
+2. 在 command prompt 執行以下指令安裝所需 library
+
+pip install tflite-runtime
+pip install pyttsx3
